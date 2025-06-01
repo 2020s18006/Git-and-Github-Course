@@ -2,4 +2,4 @@ This is sample readme
 This is feature a branch
 the newly added line
 
--- This is a simplelime added
+i added new some good lines
